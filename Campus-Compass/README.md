@@ -1,0 +1,1 @@
+This directory contains all of the graphic works I produced for the Campus Compass group project that I undertook during the First year of my degree. All images were either created or edited by me using GIMP
